@@ -1,4 +1,31 @@
 <resources>
     <string name="app_name">IS625</string>
     <string name="action_settings">Settings</string>
+
+    <!--
+        Input fields
+    -->
+    <string name="editText_hint_activity">Activity</string>
+    <string name="editText_hint_location">Location</string>
+    <string name="editText_hint_range">Range</string>
+    <string name="button_add_activity">+</string>
+    <string name="editText_errorMessage">Please fill in all required fields.</string>
+
+    <!--
+    Contextual Action Bar
+    -->
+    <string name="cab_delete">Delete Entry</string>
+    <string name="cab_change">Edit Entry</string>
+    <string name="cab_checked_string">ausgewählt</string>
+
+    <!--
+    Dialog for editing values (name, location and range of an activity)
+    -->
+    <string name="dialog_title">Edit list entry</string>
+    <string name="dialog_title_act_name">Name:</string>
+    <string name="dialog_title_act_location">Location</string>
+    <string name="dialog_title_act_range">Range:</string>
+    <string name="dialog_button_positive">Confirm</string>
+    <string name="dialog_button_negative">Cancel</string>
+
 </resources>
